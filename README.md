@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status">
 <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
-<img src="https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge" alt="India">
 <img src="https://img.shields.io/badge/Vibe-Phonk%20%26%20Lofi-purple?style=for-the-badge" alt="Vibe">
 </p>
 
