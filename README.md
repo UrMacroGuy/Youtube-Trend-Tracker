@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00bfff&height=120&section=header&text=YT-NICHEPULSE&fontSize=80&animation=fadeIn&fontAlignY=35" />
-</p>
-
 # <p align="center"><b>🚀 YT-NICHEPULSE: THE ULTIMATE NICHE DOMINATION ENGINE 🛰️</b></p>
 
 <p align="center">
