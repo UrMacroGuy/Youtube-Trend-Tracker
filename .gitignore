@@ -1,0 +1,5 @@
+# Ignore Claude files and system caches
+.claude/
+*.log
+*.tmp
+AppData/
