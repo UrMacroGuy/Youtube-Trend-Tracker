@@ -1,4 +1,4 @@
-# <p align="center"><b>🚀 YT-NICHEPULSE: THE ULTIMATE NICHE DOMINATION ENGINE 🛰️</b></p>
+# <p align="center"><b>🚀 YOUTUBE TREND TRACKER: THE ULTIMATE NICHE DOMINATION ENGINE 🛰️</b></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Combat%20Ready-brightgreen?style=for-the-badge&logo=github" />
